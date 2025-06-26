@@ -1,0 +1,1 @@
+This project will contain my first website design where i will use my freshly aquired HTML skills to build it. Later I will also youse CSS to style it up.
